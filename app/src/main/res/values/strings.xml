@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferencesExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="write_text">Sauver</string>
+    <string name="clear_text">Effacer</string>
+    <string name="read_text">Restaurer</string>
+</resources>
